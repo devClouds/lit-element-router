@@ -1,0 +1,17 @@
+{
+  "name": "lit-element-router",
+  "version": "0.0.0",
+  "private": true,
+  "author": "Jorge Guzmán Ovejero",
+  "license": "ISC",
+  "description": "Basic Router to Lit Element",
+  "main": "src/components/app-shell.js",
+  "dependencies": {
+    "lit-element": "^2.0.1",
+    "lit-element-router": "^1.2.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "gulp run dev"
+  }
+}
